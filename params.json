@@ -1,0 +1,6 @@
+{
+  "name": "Aho-corasick-automaton",
+  "tagline": "AC自动机算法Python实现",
+  "body": "# Aho-Corasick-automaton\r\nAC自动机算法Python实现，基于Python3。想要正常执行，代码文件必须使用utf-8编码\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
